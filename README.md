@@ -1,0 +1,2 @@
+# Market-basket-analysis-for-retail-stores
+I performed market basket analysis on an open dataset of a retail store in UK containing more than half a million customer transactions. I did this using the Apriori algorithm, standard and custom metrics, association rules, aggregation, pruning, and visualization to help uncover hidden insights to improve recommendations for customers and boost sales for the store.
